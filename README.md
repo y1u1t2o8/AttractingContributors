@@ -9,3 +9,4 @@
 - プリン
 - Scizor
 - ミズゴロウ
+- Pikachu
