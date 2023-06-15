@@ -10,3 +10,4 @@
 - Scizor
 - ミズゴロウ
 - Pikachu
+- ダークライ
