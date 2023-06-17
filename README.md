@@ -1,7 +1,7 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# What is favorite creature in the sea?
+# What is your favorite creature in the sea?
 好きな海洋生物はなんですか？　見た目でも味でも好きならなんでもOK
 
 I like watching sea life in the aquarium.
