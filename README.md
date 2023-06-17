@@ -10,7 +10,7 @@ And, I also like eating sushi!
 
 So, please tell me your favor in the sea life!
 
-Any reasons is OK!(looks, taste...)
+Any reason is OK!(looks, taste...)
 
 # Lists
 - orca(example)
