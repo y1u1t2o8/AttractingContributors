@@ -14,12 +14,14 @@ Any reason is fine!(looks, taste...)
 
 # Lists
 - orca(example)
-1. sea turtle
-2. 
-3.
-4.
-6. 
-7. 
-8. 
-9. 
-10. 
+- Dolphin
+- whale
+- sea turtle
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
