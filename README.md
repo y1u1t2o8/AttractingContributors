@@ -18,7 +18,7 @@ Any reason is fine!(looks, taste...)
 - whale
 - sea turtle
 - platypus
-- 
+- Giant beetle
 - 
 - 
 - 
