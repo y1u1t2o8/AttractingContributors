@@ -14,12 +14,14 @@ Any reason is fine!(looks, taste...)
 
 # Lists
 - orca(example)
-1. Giant beetle
-2. 
-3.
-4.
-6. 
-7. 
-8. 
-9. 
-10. 
+- Dolphin
+- whale
+- sea turtle
+- platypus
+- Giant beetle
+- 
+- 
+- 
+- 
+- 
+- 
