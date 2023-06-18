@@ -12,8 +12,8 @@ So, please tell me your favor in the sea life!
 
 Any reason is fine!(looks, taste...)
 
+I like orca the best! cool!
 # Lists
-- orca(example)
 - Dolphin
 - whale
 - sea turtle
