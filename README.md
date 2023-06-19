@@ -3,3 +3,4 @@
 
 # List
 - たけのこの里
+- Takenoko no sato
