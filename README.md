@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - 7
 - 0
 - 2
+- 1
